@@ -15,6 +15,7 @@ TecTrixMC:<br />
 [IP]         play.tectrix.dev
 [discord]    https://discord.com/invite/XkWmXWTcwD
 ```
+# Linux
 My public ssh key (main + portable): <br />
 ```
 sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIJ71r8QcCdI68r9e0j6+ksn1KdHoOPRY5A9E2g7pf9eNAAAABHNzaDo=
