@@ -2,32 +2,8 @@
 [tectrix.dev](https://www.tectrix.dev/)<br />
 [minecraft.tectrix.dev](https://minecraft.tectrix.dev)
 <br />
-# Web developer
-| tailwind | html/jsx/tsx | react | nextjs |<br />
 
-# Minecraft developer<br />
-
-TecTrixMC:<br />
-```
-[WEBSITE]    minecraft.tectrix.dev
-[IP]         play.tectrix.dev
-[discord]    https://discord.com/invite/XkWmXWTcwD
-```
-
-# Linux
-
-My public ssh key (main + portable): <br />
-```
-sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIJ71r8QcCdI68r9e0j6+ksn1KdHoOPRY5A9E2g7pf9eNAAAABHNzaDo=
-```
-Laptop (only use if main does not work): <br />
-```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJL0F9Vdc5KPrqCuWgGvsmtEAK8gyZiyLta1uPRtkcqi
-```
-haven't used windows in the past 3 years(i think) <br />~~used kde, now uses gnome because it's more polished and less settings to spend too much hours configuring~~ back to kde again because gnome was to limiting and lacked good screenshot tool<br />
-
-### Fedora 41 <br />
-
+For my extended bio, refer to [About - tectrix.dev](https://about.tectrix.dev) for updated information.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XkWmXWTcwD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joran.hennion) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tectrixdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tectrixdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gas-overblown-hazy@duck.com) 
